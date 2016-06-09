@@ -1,0 +1,50 @@
+int foo1(int var1, int var2, int var3)
+{
+	if (var1 < var2)
+	{
+		string message = "there was a problem, but I fixed it";
+		var2 = var1 + 78;
+		printf(message);
+	}
+}
+
+
+main()
+{
+	string reason;
+	long val3 = 4.5;
+	long val4 = 5.7;
+	while (val3 > val4)
+	{
+		printf("more nonsense");
+		scanf(reason);
+		long val5;
+		++val4;
+	}
+
+	printf ("R we dun yet?");
+	int IM = 9;
+	int U = 7;
+	int UR = 8;
+	int all = 57;
+	int lost = 54;
+	int confused = 5;
+
+	if (IM < U)
+	{
+		string y = "dunno";
+		string huh = "thought";
+	}
+	else if (UR > all)
+	{
+		printf("this should work, right?");
+		scanf(reason);
+	}
+	else
+	{
+		IM = lost;
+		IM = lost + confused;
+	}
+
+	int y;
+}

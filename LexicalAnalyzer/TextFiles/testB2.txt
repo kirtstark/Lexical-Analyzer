@@ -1,0 +1,15 @@
+bool checkerthingy()
+{}
+
+
+float foo1(int x, float y, double pleasure, bool eddy)
+{ }
+
+float foo2(int doubles, float h6, double pleasure, bool eddy)
+{ }
+
+
+int main()
+{
+
+}

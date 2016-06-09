@@ -1,0 +1,31 @@
+#define WIDTH       80
+#define GOAWAY      100
+#define LENGTH      90
+#define DEEP	    WIDTH
+#define longNumber  58.247
+#undef  GOAWAY
+#define setName     "Debbie"
+#define LENGTH      9001
+
+int main()
+{
+      int num;
+      int deep;
+      deep = DEEP;
+      int howWide = WIDTH;
+      int howLong = LENGTH;
+      int checker = 100;
+      string firstName = setName;
+      printf("Enter a number you want to check.\n");
+      scanf(num);
+      printf(num);
+      int num2 = num % 2;
+      if(num2 == 0)
+      {
+           printf("is even");
+       }
+      else
+      {
+           printf("is odd.");
+       }
+}

@@ -1,0 +1,50 @@
+int foo (char c1, char c2, char c3, char s1)
+{
+	return 3 + 2;
+}           
+
+
+void    main(   )
+{ 
+	;
+	int a, b, c = 7;
+	string t = "this is literally stringy";
+	long z = 5 + 2;
+	double w = 5 * 8 / 7 - 5;
+	long you = ++z;
+	--a;
+	int thing = (6 + 9) + (7 + 2);
+
+       int y = 75l - 3;
+       long x = 7;
+{
+	int aaa = 9;
+	aaa = 4;
+
+}
+	bool r, e, g;
+//	aaa = 8;
+        x = 2;
+	x, y, t = 7;
+        z = x + 8;
+	foo (x, y, c, 8, "hi there");
+	int parameter = 9;
+	string list = "list";
+	x = foo(parameter, list);
+	int abc = 4;
+	int a1 = 6;
+	int b2 = 76;
+	int c3 = 6;
+	int _y = foo(90, abc);
+	int __y = foo(a1, b2, c3) + x + 2 / 4;
+
+           
+	return 0;
+           
+}
+
+int foo2u (char c1, char c2, char c3, char s1)
+{
+	return 3 + 2;
+} 
+

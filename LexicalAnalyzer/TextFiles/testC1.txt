@@ -1,0 +1,43 @@
+//#  define NUM num
+//#define DECIMALSTRING "%d"
+//# define         ASKNAME "please enter your name: "
+//#define NAMESIZE     28
+//#define   
+//#define DUMMYHOLD 72
+//
+//#undef DUMMYHOLD
+//#define SOSORRY "We are all very sad about this\n"
+//
+//void display(int num)
+//{
+//	printf(“the countdown begins\n”);
+//	while(num > 0)
+//	{
+//		printf(DECIMALSTRING);
+//		printf(num);
+//		num = num – 1;
+//	}
+//	return;
+//}
+
+void main()
+{
+	int NUM;
+//	char name[NAMESIZE];
+//	printf(ASKNAME);
+//	scanf(name);
+//	printf(“Hello, %s\n”, name);
+//	printf(“Enter an integer, please:”);
+//	scanf(num);
+//	if(num < 2)
+//	{
+//		printf(“Valid integer value, but I cannot help you\n”);
+//		printf(SOSORRY);
+//	}
+//	else
+//	{
+////		Display(NUM);
+//	}
+//	int harrold = DUMMYHOLD;
+//	return 0;
+}

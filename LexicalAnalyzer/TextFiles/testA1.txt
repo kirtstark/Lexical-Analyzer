@@ -1,0 +1,26 @@
+#include <stdio.h>
+#define NEWFLOATNUM 574.251
+#define TENNUM 10
+#define HELLO  "hello"
+
+main()
+{
+    // This is a fun comment
+    float a = 2134.876;
+    double c = 21d;
+    int d = 54l; // This is another fun comment
+    float e = 47.76f;
+    float f = NEWFLOATNUM;
+
+    int i = 10;
+    ++i;
+    int j = 7;
+    int k = 8;
+
+    while ( i > 0 )
+    {
+       printf("Hello \"%d\"\n", i );
+       printf(HELLO);
+       i = i -1;
+    }
+}
